@@ -1,0 +1,8 @@
+/__pycache__
+/files
+/crop
+*.gif
+*.bat
+*.spec
+*.pyc
+temp.py
