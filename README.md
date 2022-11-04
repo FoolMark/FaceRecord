@@ -6,3 +6,5 @@
 - press <Enter> to capture a face
 - press <Enter> again to confirm. if not, back to the previous step
 - run script ```python process.py``` to generate .gif file
+## Requirements
+- Not specified in this file, read source code for more details
